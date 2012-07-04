@@ -1,0 +1,5 @@
+#surefire
+#Sun Mar 04 11:39:27 EST 2012
+user.dir=/Users/adam/demo_materials/workspaces/jrebel_workspace/petclinic_sdk
+localRepository=/Users/adam/.m2/repository
+basedir=/Users/adam/demo_materials/workspaces/jrebel_workspace/petclinic_sdk
