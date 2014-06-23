@@ -27,6 +27,8 @@ public class Pet extends NamedEntity {
 
 	private Set<Visit> visits;
 
+	private long[] cache = new long[100000];
+
 
 	public void setBirthDate(Date birthDate) {
 		this.birthDate = birthDate;

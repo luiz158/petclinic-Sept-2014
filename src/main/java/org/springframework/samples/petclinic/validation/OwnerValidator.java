@@ -16,6 +16,9 @@ public class OwnerValidator {
 		if (!StringUtils.hasLength(owner.getFirstName())) {
 			errors.rejectValue("firstName", "required", "required");
 		}
+		
+		//new RuntimeException().printStackTrace();
+		
 		if (!StringUtils.hasLength(owner.getLastName())) {
 			errors.rejectValue("lastName", "required", "required");
 		}
