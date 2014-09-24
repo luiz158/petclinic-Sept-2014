@@ -1,1 +1,5 @@
-Spring PetClinic Application used for JRebel Demos
+Spring PetClinic Application used for Rebel Demos
+This has been modified to also include XRebel demo features.
+The OwnerValidator contains a RuntimeException, the Pet contains
+an arbitrary cache that can doesn't do anything except take up
+memory in httpsession.
