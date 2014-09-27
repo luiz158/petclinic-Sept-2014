@@ -107,9 +107,11 @@
 
 	<!-- JRrebel demo code -->
 	 
-	<!-- <bean id="jrebelbean" class="org.springframework.samples.petclinic.MyJRebelBean"> 
+	<!--
+	<bean id="jrebelbean" class="org.springframework.samples.petclinic.MyJRebelBean"> 
 		<property name="name" value="ZeroTurnaround" /> 
-	</bean>  -->
+	</bean>
+	-->
 	
  
 	<!-- <import resource="mybean.xml" />  -->
